@@ -3,5 +3,5 @@ Built a Twitter Sentiment Analysis project leveraging the Sentiment140 dataset (
 
 
 ## 🔗 Links
-[![g-colab-link](https://colab.research.google.com/drive/1-KnV4cM_IcUiU6LsJcBoGykhSDZ_VfPQ?usp=sharing)](https://colab.research.google.com/)
+[![g-colab-link](https://colab.research.google.com/drive/1-KnV4cM_IcUiU6LsJcBoGykhSDZ_VfPQ?usp=sharing)]
 
